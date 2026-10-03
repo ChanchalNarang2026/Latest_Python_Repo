@@ -1,2 +1,12 @@
-Step by Step Revision with Hands ON
-Python Basics : first file
+# Python Learning & Projects
+
+This repository contains my Python learning journey.
+
+## Topics
+
+- Python Basics
+- Data Structures
+- Functions
+- OOP
+- Automation
+- Projects
